@@ -39,7 +39,7 @@ Ordering-Agent 是一个基于大语言模型（LLM）的餐厅小i机器人，�
 ### 1. 克隆项目
 
 ```bash
-git clone https://github.com/yourusername/Ordering-Agent.git
+git clone https://github.com/chunweixu/Ordering-Agent.git
 cd Ordering-Agent
 ```
 
