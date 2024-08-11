@@ -1,0 +1,20 @@
+2024-08-12 06:47:13,271 INFO Recognizing intent for input: 您好
+2024-08-12 06:51:11,720 INFO Recognizing intent for input: 您好
+2024-08-12 06:51:34,252 INFO Recognizing intent for input: 您好
+2024-08-12 06:51:34,760 INFO Guiding user through the process for input: 您好
+2024-08-12 06:52:20,482 INFO Recognizing intent for input: 请介绍下自己
+2024-08-12 06:52:20,959 INFO Guiding user through the process for input: 请介绍下自己
+2024-08-12 07:05:20,968 INFO Recognizing intent for input: 您好 as unknown
+2024-08-12 07:05:20,969 INFO Guiding user through the process for input: 您好
+2024-08-12 07:05:35,899 INFO Recognizing intent for input: 我不知道要吃啥 as 点餐
+2024-08-12 07:05:35,901 INFO Handling order for input: 我不知道要吃啥
+2024-08-12 07:07:11,446 INFO Recognizing intent for input: 可以介绍下招招牌牛排么 as 问答
+2024-08-12 07:07:11,447 INFO Handling FAQ for input: 可以介绍下招招牌牛排么
+2024-08-12 07:08:54,239 INFO Recognizing intent for input: 那我点个招牌牛排 as 点餐
+2024-08-12 07:08:54,241 INFO Handling order for input: 那我点个招牌牛排
+2024-08-12 07:09:25,606 INFO Recognizing intent for input: 再点个南瓜汤吧 as 点餐
+2024-08-12 07:09:25,608 INFO Handling order for input: 再点个南瓜汤吧
+2024-08-12 07:10:16,261 INFO Recognizing intent for input: 好了,就这两份吧 as 确认订单
+2024-08-12 07:10:16,263 INFO Confirming order for input: 好了,就这两份吧
+2024-08-12 07:10:44,406 INFO Recognizing intent for input: 谢谢 as 确认订单
+2024-08-12 07:10:44,408 INFO Confirming order for input: 谢谢
